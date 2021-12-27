@@ -11,7 +11,7 @@
 
 # Research ideas
 
-# 1. Sequential Hypothesis Testing
+## 1. Sequential Hypothesis Testing
 
 ### Citations:
 
