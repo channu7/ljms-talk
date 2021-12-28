@@ -9,6 +9,9 @@
 5. Kohavi, Ron, et al. ["Online controlled experiments at large scale."](http://www.robotics.stanford.edu/users/ronnyk/2013%20controlledExperimentsAtScale.pdf) *Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining.* 2013.
 6. Kohavi, Ron, Diane Tang, and Ya Xu. [Trustworthy online controlled experiments: A practical guide to a/b testing.](https://www.cambridge.org/core/books/trustworthy-online-controlled-experiments/D97B26382EB0EB2DC2019A7A7B518F59) *Cambridge University Press*, 2020.
 
+#### Examples of studies that did not use real data.
+[Lucic et al. (2017)](https://arxiv.org/abs/1711.10337) used simulations to compare multiple GAN architectures. [Locatello et al. (2019)](https://arxiv.org/abs/1811.12359) relied on simulated data to study the disentanglement in latent representations of variational autoencoders. [Herman et al. (2020)](https://arxiv.org/abs/2006.12433) used simulations to study the properties of features learnt by CNNs. [Lacoste et al. (2020)](https://arxiv.org/abs/2009.06415) used a relatively simple dataset simulated from unicode for a wide range of tests of different learning methods. [Olivier et al. (2018)](https://arxiv.org/abs/1804.09170) critically evaluated semi-supervied learning algorithms. [Jiang et al. (2019)](https://arxiv.org/abs/1912.02178) used controlled experiments to study generalisation metrics in deep learning. Finally, [Greydanus et al. (2020)](https://arxiv.org/abs/2011.14439) showed how using a one dimensional MNIST dataset one can experimentally observe commonly known inductive biases of CNN vs MLP performance; as well as novel phenomena like Lottery Tickets; and Double Descent. 
+
 # Research ideas
 
 ## 1. Sequential Hypothesis Testing
